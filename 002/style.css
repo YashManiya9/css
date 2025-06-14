@@ -1,0 +1,50 @@
+.head1{
+    color:blue;
+    text-align: center;
+    text-decoration: wavy underline;
+    text-transform: capitalize;
+    font-size: larger;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+
+.head2{
+ color:gainsboro;
+    text-align: start;
+    text-decoration: dotted;
+    text-transform: uppercase;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: inherit;
+}
+
+.head3{
+ color:gainsboro;
+    text-align: start;
+    text-decoration: dotted;
+    text-transform: uppercase;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: inherit;
+}
+body{
+    background-color: black;
+}
+
+.btn{
+   padding: 5px 8px;
+   font-size: 16px;
+   background-color: green;
+   border: none;
+   color: white;
+   border-radius: 5px;
+}
+ 
+.ri-pages-fill{
+color: black;
+
+}
