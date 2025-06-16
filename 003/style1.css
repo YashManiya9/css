@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: gainsboro;
+
+}
+.box{
+    width:200px;
+    height: 200px;  
+    margin: 50px;
+}
+  
+.box1{
+background-color: gainsboro;
+margin:auto;
+padding: 20px;
+border: 5px solid green;
+
+}
+
+
+.box2{
+    margin: 40px;
+    border: 10px groove rgb(226, 19, 19);
+    width: 200px;
+    height: 200px;
+    background-color: lightyellow;
+border-radius: 20%;
+}
+
+.box3{
+  border-radius:   0% 100% 18% 82% / 0% 81% 19% 100% ;
+  background-color: rgb(17, 0, 255);
+}
+
+
+.box4{
+ 
+    box-shadow: 0px 0px 5px gray;
+    border-radius: 10px;
+    font-family: arial;
+    letter-spacing: 2px;
+    padding: 5px;
+    height: auto;
+    text-align: center;
+
+
+}
+
+.box4 img{
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px gray;
+}
+
+
+.box4 button{
+    margin-top: 20px;
+    background-color: green;
+    padding: 5px 8px;
+    color: white;
+    box-shadow: 0px 0px 4px gray;
+    width: 50px;
+    height: 50px;
+
+}
